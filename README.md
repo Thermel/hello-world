@@ -1,2 +1,3 @@
 # hello-world
-first git-hup project
+first git-hub project
+tricky instructions and small images
